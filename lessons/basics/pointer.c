@@ -34,7 +34,7 @@ int main() {
     printf("a[1]: %d\n", *a_arr+1);
     printf("a[0]: %d\n", *(&a_arr+1));
 
-    //It will show the size of int as byte, so 8 
+    //It will show the size of int as byte, so 8
     printf("%d\n", sizeof(a_arr));
 
     
