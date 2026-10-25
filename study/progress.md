@@ -1,7 +1,7 @@
 # Stato corso C
 
 ## Prossima azione
-Implementare `list_remove_at()` in `linked_list.c`.
+Sessione 2
 
 ## Completato
 - [x] Puntatori base
